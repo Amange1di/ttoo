@@ -1,0 +1,24 @@
+    .btn {
+        padding: 5px 10px;
+        font-size: 18px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        margin-left: 10px;
+        &:hover {
+            scale: 1.1;
+        }
+    }
+
+    .add {
+        background: rgb(0, 255, 30);
+
+    }
+
+    .del {
+        background: rgb(255, 6, 6);
+
+    }
+    .namelist {
+        margin: 10px 0;
+    }
